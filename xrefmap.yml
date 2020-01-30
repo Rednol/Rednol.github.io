@@ -1,6 +1,18 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
+- uid: TestClassLibrary
+  name: TestClassLibrary
+  href: api/tcl/TestClassLibrary.html
+  commentId: N:TestClassLibrary
+  fullName: TestClassLibrary
+  nameWithType: TestClassLibrary
+- uid: TestClassLibrary.Class1
+  name: Class1
+  href: api/tcl/TestClassLibrary.Class1.html
+  commentId: T:TestClassLibrary.Class1
+  fullName: TestClassLibrary.Class1
+  nameWithType: Class1
 - uid: TestWindowsFormsApp
   name: TestWindowsFormsApp
   href: api/twfa/TestWindowsFormsApp.html

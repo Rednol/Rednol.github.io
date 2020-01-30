@@ -5,14 +5,50 @@
   "files": [
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/tcl/TestClassLibrary.Class1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/tcl/TestClassLibrary.Class1.html",
+          "hash": "dEN+P+AtfR+WybuW+le2vA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/tcl/TestClassLibrary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/tcl/TestClassLibrary.html",
+          "hash": "OT542HbYux2yUNAGHVw9Ig=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/tcl/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/tcl/toc.html",
+          "hash": "s6txW08N+EvWdHdvotSpfw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/twfa/TestWindowsFormsApp.Form1.yml",
       "output": {
         ".html": {
           "relative_path": "api/twfa/TestWindowsFormsApp.Form1.html",
-          "hash": "8Z9EwOY3+YHHhNE+PhwHCw=="
+          "hash": "JVN+O8XyBk17THCamtsBvg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -24,7 +60,7 @@
           "hash": "fMVbanVWHvmaSnJ7+TjR9Q=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -72,16 +108,19 @@
           "hash": "3tjv6bSP9qvNOrspcs1aTw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "k48jzhr92nVpcshajUp/OA=="
+          "hash": "5Dg/r2yWI48uJn3VF8AgOQ=="
         }
       },
       "is_incremental": false,
@@ -106,8 +145,8 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 2,
-          "skipped_file_count": 0
+          "total_file_count": 4,
+          "skipped_file_count": 4
         },
         "TocDocumentProcessor": {
           "can_incremental": false,
